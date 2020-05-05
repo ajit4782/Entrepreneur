@@ -1,5 +1,4 @@
 # Entrepreneur
-Ajit kumar
 Local Authentication Using Passport in Node.js
 In this tutorial, I’ll demonstrate how to use Passport to implement local authentication (that is, logging in with a username and password) with a MongoDB back end. If you’re looking to implement authentication via the likes of Facebook or GitHub, please refer to this tutorial.
 
